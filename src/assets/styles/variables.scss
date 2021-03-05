@@ -1,0 +1,16 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+
+$font-size-root: 18px;
+
+$body-font-family: "futura-pt", "PT Sans",
+sans-serif !important;
+$heading-font-family: "futura-pt", "Hind", sans-serif !important;
+
+$header-height: 80px;
+$header-top: $header-height;
+$primary: black;
+$custom-control-indicator-size: 1em;
+
+$matte-color: #eeeeee;
